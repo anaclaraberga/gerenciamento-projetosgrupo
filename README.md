@@ -1,1 +1,12 @@
-# gestao-equipes
+# Controle de Equipes
+
+## Tecnologias usadas:
+- 
+- 
+- 
+
+## Integrantes:
+- []()
+- []()
+- []()
+- []()
