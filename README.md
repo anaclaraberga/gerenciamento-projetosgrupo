@@ -6,7 +6,7 @@
 - Firebase
 
 ## Integrantes:
-- []()
-- []()
+- [Pfeffer](https://github.com/stPfeffer)
+- [Fin](https://github.com/MateusFindev)
 - []()
 - []()
