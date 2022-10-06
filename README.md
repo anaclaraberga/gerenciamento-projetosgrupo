@@ -6,7 +6,7 @@
 - Database: Firebase
 
 ## Integrantes:
-- [Pfeffer](https://github.com/stPfeffer)
+- [Ana](https://github.com/anaclaraberga)
+- [Comelli](https://github.com/QuasarBeam154)
 - [Fin](https://github.com/MateusFindev)
-- []()
-- []()
+- [Pfeffer](https://github.com/stPfeffer)
