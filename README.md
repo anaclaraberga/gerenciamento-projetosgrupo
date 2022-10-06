@@ -1,4 +1,4 @@
-# Controle de Equipes
+# Controle de Projetos
 
 ## Tecnologias usadas:
 - 
