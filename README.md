@@ -1,4 +1,4 @@
-# Controle de Projetos
+# Gerenciador de Projetos
 
 ## Tecnologias usadas:
 - 
