@@ -1,9 +1,9 @@
 # Gerenciador de Projetos
 
 ## Tecnologias usadas:
-- HTML/CSS/JavaScript
-- NodeJS
-- Firebase
+- Front-End: HTML/CSS/JavaScript
+- Back-End: NodeJS
+- Database: Firebase
 
 ## Integrantes:
 - []()
